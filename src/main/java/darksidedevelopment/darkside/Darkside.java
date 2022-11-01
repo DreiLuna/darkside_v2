@@ -1,6 +1,7 @@
 package darksidedevelopment.darkside;
 
 import com.mojang.logging.LogUtils;
+import darksidedevelopment.darkside.block.ModBlocks;
 import darksidedevelopment.darkside.item.ModItems;
 import net.minecraft.client.Minecraft;
 import net.minecraft.world.item.BlockItem;
@@ -37,6 +38,8 @@ public class Darkside {
 
         // NEW __________________
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
+
 
     }
 

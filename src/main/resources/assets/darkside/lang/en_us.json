@@ -1,3 +1,7 @@
 {
-  "item.darkside.dark": "Dark"
+  "item.darkside.dark": "Dark",
+  "block.darkside.dark_block": "Block of Dark",
+
+  "itemGroup.darksidetab": "Darkside Tab"
+
 }
