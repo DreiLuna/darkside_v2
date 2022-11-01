@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "darkside:dark"
+    }
+  },
+  "result": {
+    "item": "darkside:dark_block"
+  }
+}
